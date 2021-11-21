@@ -20,7 +20,8 @@ public:
     }
 
     int maxPathSum(TreeNode* root) {
-        // 用通过当前节点的最大路径和 vs 遍历过程中出现的最大路径和进行比较，选择最大值
+        // 前序遍历整个树，但是放弃返回值，因为返回值只是root节点的单边最大路径和
+        // 真正要的值是遍历过程中出现的最大路径和 maxSum
         oneSideMax(root);
         return maxSum;
     }
