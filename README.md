@@ -46,11 +46,9 @@
 | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | | 依赖Stack数据类型（或者List）实现DFS前序遍历二叉树 |
 | [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | | TODO：需要用迭代实现前中后遍历 |
 | [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | 中等 | |
-| [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 | | |
+| [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 中等 | 解法超过了例子 | |
 | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 中等 | | | 
-| [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
-| [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-| [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+| [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 完成存储父节点方法，TODO 需要递归方案 | 
 | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 | [297. 二叉树的序列化与反序列化 ](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 
