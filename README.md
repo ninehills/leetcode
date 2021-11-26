@@ -50,6 +50,9 @@
 | [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/) | 中等 | | | 
 | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 完成存储父节点方法，TODO 需要递归方案 | 
 | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
-| [297. 二叉树的序列化与反序列化 ](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+| [297. 二叉树的序列化与反序列化 ](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 | 不是很难但是需要做一些转换 | |
 
 ### 二叉搜索树
+
+| 题目 | 难度 | 备注 | 错题记录 |
+| --- | --- | --- | --- |
