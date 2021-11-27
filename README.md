@@ -53,6 +53,8 @@
 | [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 中等 | 完成存储父节点方法，TODO 需要递归方案 | |
 | [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | 中等 | | |
 | [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | 困难 | 不是很难但是需要做一些转换 | |
+| [652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | 中等 | | |
+| [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/) | 中等 | 用递归思想比较简单 | | |
 
 ### 二叉搜索树
 
@@ -67,7 +69,8 @@
 | [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 中等 | | |
 | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 中等 | 基本和95相同，需要增加一个缓存避免重复计算 | |
 | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 中等 | 需要传入min/max，且要考虑整型极值情况；题解巧妙用Node(null)来解决 | |
-| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 中等 | | [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 | |
+| [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) | 中等 |
+| [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | 简单 | |
 | [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | 中等 | | |
 | [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | 中等 | | |
 | [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 简单 | | |
